@@ -32,8 +32,8 @@ Você pode visualizar o layout original no Figma:
 
 🧪 Como executar o projeto
 Clone o repositório:
-git clone https://github.com/LucasValada/TechNew.git
-cd TechNew
+git clone https://github.com/LucasValada/Formulario-de-Matricula.git
+cd Formulario-de-Matricula
 
 Abra o arquivo index.html no navegador:
 Clique duas vezes sobre ele OU
